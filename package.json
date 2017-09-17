@@ -1,6 +1,6 @@
 {
   "name": "single-file-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple single source file based console logging for Node.js.",
   "main": "index.js",
   "scripts": {
