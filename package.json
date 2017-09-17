@@ -1,0 +1,24 @@
+{
+  "name": "single-file-logger",
+  "version": "1.0.1",
+  "description": "Simple single source file based console logging for Node.js.",
+  "main": "index.js",
+  "scripts": {
+	  "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemis-prime/simple-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "node"
+  ],
+  "author": "artemis-prime",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/artemis-prime/simple-logger/issues"
+  },
+  "homepage": "https://github.com/artemis-prime/simple-logger#readme"
+}
