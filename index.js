@@ -1,1 +1,1 @@
-module.export = require('./simple-logger');
+module.export = require('./logger');

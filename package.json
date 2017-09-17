@@ -1,6 +1,6 @@
 {
-  "name": "single-file-logger",
-  "version": "1.0.2",
+  "name": "@artemis-prime/logger",
+  "version": "1.0.0",
   "description": "Simple single source file based console logging for Node.js.",
   "main": "index.js",
   "scripts": {
